@@ -4,11 +4,11 @@ lint:
         - params.bamtools_filter_se_config
         - params.bamtools_filter_pe_config
   files_exist:
-        - ".github/workflows/nf-test.yml"
-        - ".github/actions/get-shards/action.yml"
-        - ".github/actions/nf-test/action.yml"
-        - "nf-test.config"
-        - "tests/default.nf.test"
+    - ".github/workflows/nf-test.yml"
+    - ".github/actions/get-shards/action.yml"
+    - ".github/actions/nf-test/action.yml"
+    - "nf-test.config"
+    - "tests/default.nf.test"
   nf_test_content: False
 nf_core_version: 3.3.2
 repository_type: pipeline
