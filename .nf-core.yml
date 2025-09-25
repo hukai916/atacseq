@@ -4,7 +4,7 @@ lint:
         - params.bamtools_filter_se_config
         - params.bamtools_filter_pe_config
 skip_features:
-    - "nf-test"
+  - "nf-test"
 nf_core_version: 3.3.2
 repository_type: pipeline
 template:
