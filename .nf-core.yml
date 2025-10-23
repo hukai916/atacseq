@@ -3,7 +3,14 @@ lint:
     - config_defaults:
         - params.bamtools_filter_se_config
         - params.bamtools_filter_pe_config
-nf_core_version: 3.2.1
+  files_exist:
+    - ".github/workflows/nf-test.yml"
+    - ".github/actions/get-shards/action.yml"
+    - ".github/actions/nf-test/action.yml"
+    - "nf-test.config"
+    - "tests/default.nf.test"
+  nf_test_content: False
+nf_core_version: 3.3.2
 repository_type: pipeline
 template:
   author: Patel H, Langer B, Espinosa-Carrasco J, Syme R
@@ -14,3 +21,5 @@ template:
   org: nf-core
   outdir: .
   version: 2.2.0dev
+  skip_features:
+    - "nf-test"

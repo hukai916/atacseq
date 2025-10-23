@@ -27,7 +27,7 @@ jobs:
     strategy:
       matrix:
         NXF_VER:
-          - "24.04.2"
+          - "24.10.5"
           - "latest-everything"
         profile:
           - "conda"
@@ -94,7 +94,7 @@ jobs:
     strategy:
       matrix:
         NXF_VER:
-          - "24.04.2"
+          - "24.10.5"
           - "latest-everything"
         parameters:
           - "--skip_trimming"
