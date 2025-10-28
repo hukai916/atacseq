@@ -10,7 +10,7 @@ lint:
     - "nf-test.config"
     - "tests/default.nf.test"
   nf_test_content: False
-nf_core_version: 3.3.2
+nf_core_version: 3.4.1
 repository_type: pipeline
 template:
   author: Patel H, Langer B, Espinosa-Carrasco J, Syme R
