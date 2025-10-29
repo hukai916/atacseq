@@ -36,7 +36,7 @@ process MULTIQC_CUSTOM_PEAKS {
     """
     touch ${prefix}.count_mqc.tsv
     touch ${prefix}.FRiP_mqc.tsv
-    
+
     cat <<-END_VERSIONS > versions.yml
     "${task.process}":
         sed: \$(echo \$(sed --version 2>&1) | sed 's/^.*GNU sed) //; s/ .*\$//')
