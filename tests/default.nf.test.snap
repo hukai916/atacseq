@@ -920,12 +920,6 @@
                 "trimgalore/logs/OSMOTIC_STRESS_T15_PE_REP1_T2_2.fastq.gz_trimming_report.txt"
             ],
             [
-                "OSMOTIC_STRESS_T0_PE_REP1.ataqv.json:md5,9ff3c083aaa8dc7a8cc0c12f89561324",
-                "OSMOTIC_STRESS_T0_PE_REP2.ataqv.json:md5,f160a2d6527828e75da51099da87ad14",
-                "OSMOTIC_STRESS_T100_SE_REP1.ataqv.json:md5,d4f90e37dd8fece4fcfbe80767756f66",
-                "OSMOTIC_STRESS_T100_SE_REP2.ataqv.json:md5,ea4da87092ed5e9e4b3bf64569882bb7",
-                "OSMOTIC_STRESS_T150_SE_REP1.ataqv.json:md5,cc90f58761200e384f650ca7569686fd",
-                "OSMOTIC_STRESS_T15_PE_REP1.ataqv.json:md5,027eb0983aba63c562ad13e5d2f7d5d1",
                 "ataqv.css:md5,7bb9e18974018dd29bdc12a46a6d6d65",
                 "datatables.buttons.min.css:md5,675306abc9d3239314f2c66c0e22ef7a",
                 "datatables.fontawesome.css:md5,716d7a3edd2c75e712b1ffe26f12a861",
@@ -996,7 +990,6 @@
                 "OSMOTIC_STRESS_T15_PE_REP1.mLb.clN_peaks.count_mqc.tsv:md5,6718411a3dd59b2e62e9758c401b14a2",
                 "macs3_annotatePeaks.mLb.clN.summary.txt:md5,0aef404ef488aefb3dd7a72826c28db8",
                 "macs3_annotatePeaks.mLb.clN.summary_mqc.tsv:md5,a24fa1102eb240a1108f92e8988f39a0",
-                "macs3_peak.mLb.clN.summary.txt:md5,a1957f0c035b1096546a8143c4255e49",
                 "OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.sorted.bam.flagstat:md5,bf55dd1cb2d7f8902ae4019732d501a1",
                 "OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.sorted.bam.idxstats:md5,7c65fec9a46b906d7680ad380b155052",
                 "OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.sorted.bam.stats:md5,a60aba5ead53b8b425896df74d8eabe2",
@@ -1056,7 +1049,6 @@
                 "OSMOTIC_STRESS_T100_SE.mRp.clN_peaks.count_mqc.tsv:md5,31e2de1f288e4e8191bcd0267d63828e",
                 "macs3_annotatePeaks.mRp.clN.summary.txt:md5,96beab08431b5025c3a0c1c6efdde1ee",
                 "macs3_annotatePeaks.mRp.clN.summary_mqc.tsv:md5,6c689c7ea46d435473766db948fe02c5",
-                "macs3_peak.mRp.clN.summary.txt:md5,04a4e3ead531914fdfe7e266233d322b",
                 "OSMOTIC_STRESS_T0_PE.mRp.clN.sorted.bam.flagstat:md5,6b86d351cc23175595e5423794dd0488",
                 "OSMOTIC_STRESS_T0_PE.mRp.clN.sorted.bam.idxstats:md5,2899fa3e6032c454f09f8e7009c14769",
                 "OSMOTIC_STRESS_T0_PE.mRp.clN.sorted.bam.stats:md5,def0814a1dc2293a596c8b1fb91fd97e",
@@ -1126,13 +1118,9 @@
                 "multiqc_fastqc_1.txt:md5,a9323fccc3d4045755c59a9fb8b75c31",
                 "multiqc_featureCounts_mlib_featurecounts.txt:md5,1a2afb961401d1f536437dbe6fd15d6b",
                 "multiqc_featureCounts_mrep_featurecounts.txt:md5,84b23db5604594ce0e8d3c5c203e20a7",
-                "multiqc_mlib_deseq2_clustering_1-plot.yaml:md5,220b694ef492678c523ae2248a476be4",
-                "multiqc_mlib_deseq2_pca_1-plot.txt:md5,f678b170579c64cf0f34a46710eaf273",
                 "multiqc_mlib_frip_score-plot.txt:md5,01d6872fa267518981f277e3e6de8c1a",
                 "multiqc_mlib_peak_annotation-plot.txt:md5,bc637d1fb7a56ab4ddba3eb900ea5619",
                 "multiqc_mlib_peak_count-plot.txt:md5,22e2cc18e32e26a95a5db993a25a02d2",
-                "multiqc_mrep_deseq2_clustering_1-plot.yaml:md5,78011914ecb93c51445b1bc20b3d0360",
-                "multiqc_mrep_deseq2_pca_1-plot.txt:md5,c57748982ae2ae15ec6a0dfd0b369e9f",
                 "multiqc_mrep_frip_score-plot.txt:md5,7ce330e2750aa5d2944c4c9d740606ea",
                 "multiqc_mrep_peak_annotation-plot.txt:md5,06918eae76d769b41471460676e02afb",
                 "multiqc_mrep_peak_count-plot.txt:md5,e5019374d8964473ca648859cca797fc",
@@ -1155,7 +1143,7 @@
                 "multiqc_samtools_stats_1.txt:md5,eebfc7f89427df389efe368683df0a16",
                 "multiqc_samtools_stats_2.txt:md5,be042567faa6117aa64b150382dbd77b",
                 "multiqc_samtools_stats_3.txt:md5,d441e0a48adbb569750d41918d6a8480",
-                "multiqc_sources.txt:md5,54b8543b1672f994a0533ce3a992a49f",
+                "multiqc_sources.txt:md5,d1adf9de19db12a90b37d1d79ae77d72",
                 "picard_histogram.txt:md5,c9aa8a5ac6841ffb3a6cc2de45b44797",
                 "picard_histogram_1.txt:md5,c9aa8a5ac6841ffb3a6cc2de45b44797",
                 "picard_histogram_2.txt:md5,c9aa8a5ac6841ffb3a6cc2de45b44797",
@@ -1172,6 +1160,6 @@
             "nf-test": "0.9.3",
             "nextflow": "25.04.7"
         },
-        "timestamp": "2025-10-29T16:02:19.120813827"
+        "timestamp": "2025-10-30T10:21:02.449132244"
     }
 }
