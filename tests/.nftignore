@@ -12,6 +12,7 @@ multiqc/multiqc_data/BETA-multiqc.parquet
 **/multiqc.log
 **/multiqc_data.json
 **/multiqc_report.html
+**/multiqc_mrep_deseq2_pca_1-plot.txt
 multiqc/multiqc_data/multiqc_sources.txt
 multiqc/multiqc_data/multiqc_software_versions.txt
 multiqc/multiqc_plots/{svg,pdf,png}/*.{svg,pdf,png}
@@ -51,7 +52,7 @@ fastqc/*_fastqc.{html,zip}
 # Peak calling and annotation
 **/*.annotatePeaks.txt
 **/*.boolean.annotatePeaks.txt
-**/macs3_peak.summary.txt
+**/macs3_peak.*.summary.txt
 
 # Feature counting
 **/*.featureCounts.txt
@@ -63,6 +64,9 @@ fastqc/*_fastqc.{html,zip}
 **/*.sample.dists.txt
 **/*.sample.dists_mqc.tsv
 
+# Ataqv outputs
+**/*.ataqv.json
+
 # === YAML CONFIGURATION FILES ===
 **/deeptools_plot_profile_mlib_deeptools.yaml
 **/multiqc_deseq2_clustering_1.yaml
@@ -71,6 +75,8 @@ fastqc/*_fastqc.{html,zip}
 **/read_distribution_profile.yaml
 **/deeptools_fingerprint_plot.yaml
 **/deeptools_plot_fingerprint_counts_mlib_deeptools.yaml
+**/multiqc_mlib_deseq2_clustering_1-plot.yaml
+**/multiqc_mrep_deseq2_clustering_1-plot.yaml
 
 # === CHIP-SEQ SPECIFIC OUTPUTS ===
 # PhantomPeakQualTools outputs (contain variable correlation data)
