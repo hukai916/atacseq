@@ -42,4 +42,16 @@ process GENOME_BLACKLIST_REGIONS {
         END_VERSIONS
         """
     }
+
+    stub:
+    def file_out = "${sizes.simpleName}.include_regions.bed"
+    """
+    touch $file_out
+    cat <<-END_VERSIONS > versions.yml
+    "${task.process}":
+        bedtools: \$(bedtools --version | sed -e "s/bedtools v//g")
+    END_VERSIONS
+    """
+
+
 }
