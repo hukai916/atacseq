@@ -25,16 +25,16 @@
                     "getchromsizes": "1.16.1"
                 },
                 "DEEPTOOLS_COMPUTEMATRIX_REFERENCE_POINT": {
-                    "deeptools": "3.5.1"
+                    "deeptools": "3.5.5"
                 },
                 "DEEPTOOLS_COMPUTEMATRIX_SCALE_REGIONS": {
-                    "deeptools": "3.5.1"
+                    "deeptools": "3.5.5"
                 },
                 "DEEPTOOLS_PLOTHEATMAP": {
-                    "deeptools": "3.5.1"
+                    "deeptools": "3.5.5"
                 },
                 "DEEPTOOLS_PLOTPROFILE": {
-                    "deeptools": "3.5.1"
+                    "deeptools": "3.5.5"
                 },
                 "DESEQ2_QC": {
                     "bioconductor-deseq2": "1.28.0",
@@ -79,7 +79,7 @@
                     "ataqv": "1.3.1"
                 },
                 "MERGED_LIBRARY_DEEPTOOLS_PLOTFINGERPRINT": {
-                    "deeptools": "3.5.1"
+                    "deeptools": "3.5.5"
                 },
                 "MERGED_LIBRARY_PICARD_COLLECTMULTIPLEMETRICS": {
                     "picard": "3.0.0"
@@ -91,10 +91,10 @@
                     "picard": "3.1.1"
                 },
                 "PICARD_MERGESAMFILES_LIBRARY": {
-                    "picard": "3.0.0"
+                    "picard": "3.4.0"
                 },
                 "PICARD_MERGESAMFILES_REPLICATE": {
-                    "picard": "3.0.0"
+                    "picard": "3.4.0"
                 },
                 "PLOT_HOMER_ANNOTATEPEAKS": {
                     "r-base": "4.0.3"
@@ -1159,6 +1159,6 @@
             "nf-test": "0.9.3",
             "nextflow": "25.04.7"
         },
-        "timestamp": "2025-10-30T11:06:03.413233375"
+        "timestamp": "2025-11-03T15:06:11.345611132"
     }
 }
