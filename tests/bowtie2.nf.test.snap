@@ -884,7 +884,7 @@
                 "OSMOTIC_STRESS_T100_SE_REP2.mLb.mkD.sorted.bam.stats:md5,fcfb5b84c1e25b1020493e4dd830f73a",
                 "OSMOTIC_STRESS_T150_SE_REP1.mLb.clN.sorted.bam.flagstat:md5,fd0c489978aaaec916443b5978149406",
                 "OSMOTIC_STRESS_T150_SE_REP1.mLb.clN.sorted.bam.idxstats:md5,6220333600c3b706a076e4c60e339b2a",
-                "OSMOTIC_STRESS_T150_SE_REP1.mLb.clN.sorted.bam.stats:md5,56879f4d5f6d236c125ab1db412f0330",
+                "OSMOTIC_STRESS_T150_SE_REP1.mLb.clN.sorted.bam.stats:md5,08cacb825f4d86da4b3de0642696496b",
                 "OSMOTIC_STRESS_T150_SE_REP1.mLb.mkD.sorted.bam.flagstat:md5,723a623f8557bcf73303d3dc5487f6de",
                 "OSMOTIC_STRESS_T150_SE_REP1.mLb.mkD.sorted.bam.idxstats:md5,40a2d718aeb024b0771fcfac1cd7b111",
                 "OSMOTIC_STRESS_T150_SE_REP1.mLb.mkD.sorted.bam.stats:md5,43e597299fb5ebaa50a0760a198af39f",
@@ -961,9 +961,9 @@
                 "mqc_picard_deduplication_1.txt:md5,dfb52f130f11b6b585b9a00e7501c2b6",
                 "mqc_picard_insert_size_Counts.txt:md5,a6d7d5a1162c0f2293c7f198f68b1441",
                 "mqc_picard_insert_size_Percentages.txt:md5,727c5921ef28993cf6ec17024fc6ae44",
-                "mqc_picard_quality_by_cycle_1.txt:md5,5841a6e4bbc4f69383ddc41f825a3d3c",
-                "mqc_picard_quality_score_distribution_1.txt:md5,175a2934431115699e2dcbb00a7709f2",
-                "mqc_read_distribution_profile_1.txt:md5,e05f36db8c40a69975666e777dc1b764",
+                "mqc_picard_quality_by_cycle_1.txt:md5,bb8b7422449c38c8240e0ddbb60c6e9e",
+                "mqc_picard_quality_score_distribution_1.txt:md5,1ef2dd66422144c8415397d1d2f85329",
+                "mqc_read_distribution_profile_1.txt:md5,3b38829f22e6a7b788645f481c21f047",
                 "mqc_samtools-idxstats-mapped-reads-plot-2_Normalised_Counts.txt:md5,e6f29d70eb6a1f3dc8bf913e10636658",
                 "mqc_samtools-idxstats-mapped-reads-plot-2_Observed_over_Expected_Counts.txt:md5,860ee89ae5ca55e38cbf7e0a2a3d7a6f",
                 "mqc_samtools-idxstats-mapped-reads-plot-2_Raw_Counts.txt:md5,3414ab4859421f05cce7308252261136",
@@ -1027,7 +1027,7 @@
             "nf-test": "0.9.3",
             "nextflow": "25.04.7"
         },
-        "timestamp": "2025-11-03T10:23:54.313776678"
+        "timestamp": "2025-11-03T17:00:36.168164175"
     },
     "bowtie2 with stub": {
         "content": [
