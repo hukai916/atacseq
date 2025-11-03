@@ -122,7 +122,7 @@
                     },
                     "picard/mergesamfiles": {
                         "branch": "master",
-                        "git_sha": "911696ea0b62df80e900ef244d7867d177971f73",
+                        "git_sha": "2d74c664aadaacfba29fc74840037dfc93129f82",
                         "installed_by": ["modules"]
                     },
                     "preseq/lcextrap": {
