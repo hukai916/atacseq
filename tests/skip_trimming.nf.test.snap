@@ -986,9 +986,6 @@
                 "mqc_picard_deduplication_1.txt:md5,ae81819149ddc73769434835516aca67",
                 "mqc_picard_insert_size_Counts.txt:md5,3c7680dd62b599c45b37143ea497591c",
                 "mqc_picard_insert_size_Percentages.txt:md5,cd5b5ae201ded6594f24e3e5bace9048",
-                "mqc_picard_quality_by_cycle_1.txt:md5,2236571ae641a831878b83fdeec19b9b",
-                "mqc_picard_quality_score_distribution_1.txt:md5,45f1bda318f3db62c1f9ba11a9069130",
-                "mqc_read_distribution_profile_1.txt:md5,9464eee16030221cf2354197afd9c6b4",
                 "mqc_samtools-idxstats-mapped-reads-plot-2_Normalised_Counts.txt:md5,20bef4426162e964c2214b09dfa90fc7",
                 "mqc_samtools-idxstats-mapped-reads-plot-2_Observed_over_Expected_Counts.txt:md5,d545b4ef8f4a8c7078dbf307713d7b14",
                 "mqc_samtools-idxstats-mapped-reads-plot-2_Raw_Counts.txt:md5,a1a87603c22be8d3f3d71b4fb146a4b1",
@@ -1050,7 +1047,7 @@
             "nf-test": "0.9.3",
             "nextflow": "25.04.7"
         },
-        "timestamp": "2025-11-04T18:59:12.737218909"
+        "timestamp": "2025-11-05T15:52:12.965891596"
     },
     "skip_trimming with stub": {
         "content": [

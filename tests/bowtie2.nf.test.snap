@@ -1005,7 +1005,7 @@
                 "OSMOTIC_STRESS_T0_PE_REP2.mLb.mkD.sorted.bam.stats:md5,764f9a76ace11112b5bca99bb810c404",
                 "OSMOTIC_STRESS_T100_SE_REP1.mLb.clN.sorted.bam.flagstat:md5,0f232359422824f30d4f0906cec5c691",
                 "OSMOTIC_STRESS_T100_SE_REP1.mLb.clN.sorted.bam.idxstats:md5,f7b881c9a7f09b53d397b78f6fa43299",
-                "OSMOTIC_STRESS_T100_SE_REP1.mLb.clN.sorted.bam.stats:md5,62fce2b3425267937cc874571459c4c8",
+                "OSMOTIC_STRESS_T100_SE_REP1.mLb.clN.sorted.bam.stats:md5,abd8f7c8fa9ede8e86e4b769ca303cbf",
                 "OSMOTIC_STRESS_T100_SE_REP1.mLb.mkD.sorted.bam.flagstat:md5,d8f76ebba8f942565a6b0dc0aea1e5ea",
                 "OSMOTIC_STRESS_T100_SE_REP1.mLb.mkD.sorted.bam.idxstats:md5,3ff55b9a33e964dfe5403cf9f52427a9",
                 "OSMOTIC_STRESS_T100_SE_REP1.mLb.mkD.sorted.bam.stats:md5,9cc7d5584c6e97d395777e19820ecdd3",
@@ -1055,7 +1055,7 @@
                 "OSMOTIC_STRESS_T0_PE.mRp.clN.sorted.bam.stats:md5,4a2437024b0e73dc6645605049c581fd",
                 "OSMOTIC_STRESS_T100_SE.mRp.clN.sorted.bam.flagstat:md5,5f77454daacfe1db08ff6d32d1f6592e",
                 "OSMOTIC_STRESS_T100_SE.mRp.clN.sorted.bam.idxstats:md5,1277ab52bed3c04934a8035017d50770",
-                "OSMOTIC_STRESS_T100_SE.mRp.clN.sorted.bam.stats:md5,e2709cd6a2f9a2f1a0958537f4747b4c",
+                "OSMOTIC_STRESS_T100_SE.mRp.clN.sorted.bam.stats:md5,cb1492fb54d56db4fccdfe6f0eb6d519",
                 "genome.fa:md5,4bad9f4b18056156a81f7f952abbe125",
                 "genome.fa.fai:md5,6f4c0ce5258e6948135ad006e1f9ee1b",
                 "deeptools_plot_fingerprint_counts_mlib_deeptools.txt:md5,7bc385cf49df27f4ff287e75ed4223d2",
@@ -1085,9 +1085,9 @@
                 "mqc_picard_alignment_readlength_plot_1.txt:md5,c1ea0d435628d6285bfa13b0a0940c62",
                 "mqc_picard_alignment_summary__name_Aligned_Bases_ylab_Bases_cpswitch_counts_label_Number_of_Bases_.txt:md5,257c1671f8d2af16f28a7452876ba195",
                 "mqc_picard_alignment_summary__name_Aligned_Reads_ylab_Reads_cpswitch_counts_label_Number_of_Reads_.txt:md5,8ee0f9c36a3c560497d3e0e15badf1a3",
-                "mqc_picard_base_distribution_by_cycle__Adenine.txt:md5,37a1c37b12f0156adfc7d3ff914b1faa",
+                "mqc_picard_base_distribution_by_cycle__Adenine.txt:md5,57888e5fe999e2bd83c09bc31c477019",
                 "mqc_picard_base_distribution_by_cycle__Cytosine.txt:md5,9defef7c5392970b1737199aa5f7d42c",
-                "mqc_picard_base_distribution_by_cycle__Guanine.txt:md5,3e834d23852f343873c77ec2d4ca4903",
+                "mqc_picard_base_distribution_by_cycle__Guanine.txt:md5,82c3da5e19d5a4b82be0e2e71c61e755",
                 "mqc_picard_base_distribution_by_cycle__Thymine.txt:md5,e5f2bb46948a88e1f9491dab8da666a2",
                 "mqc_picard_base_distribution_by_cycle__Undetermined.txt:md5,14a05af14d3e05d2d93642fcbd6d2cd9",
                 "mqc_picard_deduplication-2_1.txt:md5,b93ea0256a122d7d0352ef28bf73e7d6",
@@ -1123,7 +1123,7 @@
                 "multiqc_mrep_peak_annotation-plot.txt:md5,26bb9e3b0e3ac7444ec313aea9a9453b",
                 "multiqc_mrep_peak_count-plot.txt:md5,7a88fc56da309a0f9054af588f1043d2",
                 "multiqc_picard_AlignmentSummaryMetrics.txt:md5,a202a91b858c682a429c433221ac2062",
-                "multiqc_picard_baseContent.txt:md5,781c494224d161b4eccf3f4f0d76e083",
+                "multiqc_picard_baseContent.txt:md5,5d23f34110cfd3d7fc11a48010e9b881",
                 "multiqc_picard_dups.txt:md5,0aee5bee744ae1d5b694dc3090fb0798",
                 "multiqc_picard_dups_mrep_picard.txt:md5,425197eed7ef7cf8afe04a157d75077c",
                 "multiqc_picard_insertSize.txt:md5,6f8845000084bf68e7079b5cbda25891",
@@ -1139,8 +1139,8 @@
                 "multiqc_samtools_idxstats_3.txt:md5,15f4d684eac0243c010b24061bbc7f93",
                 "multiqc_samtools_stats.txt:md5,b9e50b7e6dfda529e0ba2329a81c17dd",
                 "multiqc_samtools_stats_1.txt:md5,d27e74315cbe035d473858ec5686e1c7",
-                "multiqc_samtools_stats_2.txt:md5,e5392f97618651809069e4648ab1f064",
-                "multiqc_samtools_stats_3.txt:md5,d4fbeaa4bb4cb13a3e0ea949173a171e",
+                "multiqc_samtools_stats_2.txt:md5,024e19c258d6da55dc9156a717112cc1",
+                "multiqc_samtools_stats_3.txt:md5,1d4ff392072d8a3d9f4b8aaf50daac8e",
                 "picard_histogram.txt:md5,c9aa8a5ac6841ffb3a6cc2de45b44797",
                 "picard_histogram_1.txt:md5,c9aa8a5ac6841ffb3a6cc2de45b44797",
                 "picard_histogram_2.txt:md5,c9aa8a5ac6841ffb3a6cc2de45b44797",
@@ -1157,7 +1157,7 @@
             "nf-test": "0.9.3",
             "nextflow": "25.04.7"
         },
-        "timestamp": "2025-11-04T17:49:49.493410295"
+        "timestamp": "2025-11-05T15:02:06.193719481"
     },
     "bowtie2 with stub": {
         "content": [
