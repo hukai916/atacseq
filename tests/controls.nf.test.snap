@@ -1,5 +1,5 @@
 {
-    "-profile test": {
+    "-profile test_controls": {
         "content": [
             264,
             {
@@ -1125,6 +1125,6 @@
             "nf-test": "0.9.3",
             "nextflow": "25.04.7"
         },
-        "timestamp": "2025-11-06T08:20:15.68712324"
+        "timestamp": "2025-11-10T11:52:50.44827687"
     }
 }
