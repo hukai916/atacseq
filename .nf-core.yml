@@ -13,8 +13,5 @@ template:
   name: atacseq
   org: nf-core
   outdir: .
-  skip_features:
-    - nf-test
   version: 2.2.0dev
-  skip_features:
-    - "nf-test"
+
