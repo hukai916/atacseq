@@ -210,7 +210,7 @@ workflow PREPARE_GENOME {
         if (chromap_index) {
             if (chromap_index.endsWith('.tar.gz')) {
                 ch_chromap_index = UNTAR_CHROMAP_INDEX ( [ [:], chromap_index ] ).untar
-                ch_versions  = ch_versions.mix(UNTAR.out.versions)
+                ch_versions  = ch_versions.mix(UNTAR_CHROMAP_INDEX.out.versions)
             } else {
                 ch_chromap_index = [ [:], file(chromap_index) ]
             }
