@@ -3,6 +3,10 @@ micromamba activate nfcore
 
 nextflow run main.nf -profile mamba,lsf -c test.config -resume 
 
+
+# Reference preparation
+# See: assets/genome_download
+
 # From nfcore/atacseq issues:
 1. set narrow_peak to true for ATAC-seq: https://github.com/nf-core/atacseq/issues/403
 2. 

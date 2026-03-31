@@ -5,3 +5,7 @@ wget https://ftp.ensembl.org/pub/release-110/gtf/mus_musculus/Mus_musculus.GRCm3
 Blacklist: 
 https://bedbase.org/bed/67c08efd44d558f0aafbb1240e93a97a
 https://github.com/Boyle-Lab/Blacklist/issues/25
+After download, do the following so that the chromsome names are consistent:
+gunzip mm39_blacklist.bed.gz
+sed -i 's/^chr//' mm39_blacklist.bed
+gzip mm39_blacklist.bed
