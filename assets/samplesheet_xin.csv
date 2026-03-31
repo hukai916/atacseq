@@ -1,0 +1,5 @@
+sample,fastq_1,fastq_2,replicate
+WT,/home/kai.hu-umw/pi/junhao.mao-umw/XinChen/2026_03_ATAC_seq/data/WT1/WT1_QKDO260000025-1A_2353M3LT4_L7_1.fq.gz,/home/kai.hu-umw/pi/junhao.mao-umw/XinChen/2026_03_ATAC_seq/data/WT1/WT1_QKDO260000025-1A_2353M3LT4_L7_2.fq.gz,1
+WT,/home/kai.hu-umw/pi/junhao.mao-umw/XinChen/2026_03_ATAC_seq/data/WT2/WT2_QKDO260000026-1A_2353M3LT4_L7_1.fq.gz,/home/kai.hu-umw/pi/junhao.mao-umw/XinChen/2026_03_ATAC_seq/data/WT2/WT2_QKDO260000026-1A_2353M3LT4_L7_2.fq.gz,2
+T,/home/kai.hu-umw/pi/junhao.mao-umw/XinChen/2026_03_ATAC_seq/data/T1/T1_QKDO260000027-1A_2353M3LT4_L7_1.fq.gz,/home/kai.hu-umw/pi/junhao.mao-umw/XinChen/2026_03_ATAC_seq/data/T1/T1_QKDO260000027-1A_2353M3LT4_L7_2.fq.gz,1
+T,/home/kai.hu-umw/pi/junhao.mao-umw/XinChen/2026_03_ATAC_seq/data/T2/T2_QKDO260000028-1A_2353M3LT4_L7_1.fq.gz,/home/kai.hu-umw/pi/junhao.mao-umw/XinChen/2026_03_ATAC_seq/data/T2/T2_QKDO260000028-1A_2353M3LT4_L7_2.fq.gz,2
