@@ -1,0 +1,4 @@
+# On SCI:
+micromamba activate nfcore
+
+nextflow run main.nf -profile mamba,lsf -c test.config -resume 
