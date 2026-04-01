@@ -2,7 +2,7 @@ process CUSTOM_GETCHROMSIZES {
     tag "$fasta"
     label 'process_single'
 
-    conda "bioconda::samtools"
+    conda "bioconda::samtools=1.19.2 conda-forge::python=3.10"
     container "${ workflow.containerEngine == 'singularity' && !task.ext.singularity_pull_docker_container ?
         'https://depot.galaxyproject.org/singularity/samtools:1.16.1--h6899075_1' :
         'biocontainers/samtools:1.16.1--h6899075_1' }"
